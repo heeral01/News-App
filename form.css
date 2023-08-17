@@ -1,0 +1,41 @@
+
+.signup{
+    display: flex;
+    justify-content: center;
+    
+}
+.img-1{
+   margin-top: 100px;
+   margin-left: 250px;
+   color: rgb(254,205,9);
+   
+
+}
+.text{
+    margin-top: 25px;
+}
+
+input{
+    width: 350px;
+    height: 20px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    font-size: 1px;
+    border-bottom: 1px solid black;
+}
+
+.button-form{
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(254,205,9);
+    border: none;
+    color: rgb(3,25,61);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+h1{
+    color: rgb(3,25,61);
+
+}
